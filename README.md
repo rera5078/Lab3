@@ -6,3 +6,4 @@ Project Team Members:
 John Doe
 Ben Kaplun
 Igor Overchuk
+Ethan Smith
