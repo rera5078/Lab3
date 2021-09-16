@@ -1,4 +1,8 @@
+//
 # Lab3
 Practicing git commands
 
-Igor's edits
+Project Team Members:
+John Doe
+Ben Kaplun
+Igor Overchuk
