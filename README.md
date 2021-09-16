@@ -1,4 +1,10 @@
 # Lab3
 Practicing git commands
-Project Team Members: Ben Kaplun
+<<<<<<< HEAD
+Project Team Members:
+John Doe
+Ben Kaplun
+=======
+Project Team Members: John Doe
+>>>>>>> main
 
