@@ -1,4 +1,4 @@
 Project Team Members:
-Tyler Moll
+  Tyler Moll
 # Lab3
 Practicing git commands
